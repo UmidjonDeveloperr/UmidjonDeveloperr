@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @UmidjonDeveloperr
 - 👀 I’m interested in Microsoft's products
-- 🌱 I’m currently learning Dot Net C#
+- 🌱 I’m currently learning Data Analytics
